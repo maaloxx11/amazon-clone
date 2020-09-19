@@ -13,7 +13,7 @@ function App() {
 						<h1>Checkout</h1>
 					</Route>
 					<Route path="/login">
-						<h1>login page</h1>
+						<h1>login dfpage</h1>
 					</Route>
 					<Route path="/">
 						<Header></Header>
